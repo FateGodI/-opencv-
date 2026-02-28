@@ -22,5 +22,3 @@ pip install opencv-python pillow requests numpy
 OpenCV's QR code detector may be less sensitive than ZBar in complex backgrounds or with small QR codes, but it suffices for most scenarios.
 
 This implementation is relatively lightweight. For handling complex scenarios, you may also consider installing pure Python alternatives to pyzbar, such as qreader (based on YOLO and OpenCV). However, its configuration is more complex.
-
-Translated with DeepL.com (free version)
