@@ -1,7 +1,8 @@
 # -opencv-
 QR Code Scanner OpenCV Version
 
-Chinese:
+Chinese：
+
 二维码扫描器 opencv版本
 该扫描器使用python编写 使用前请安装前置
 
